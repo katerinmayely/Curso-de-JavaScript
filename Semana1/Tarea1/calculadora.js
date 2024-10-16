@@ -16,11 +16,10 @@ let operacion = prompt("¿Qué operación desea realizar?");
 
 // Realiza la operación e imprime el resultado
 // Utilizan los condicionales para decidir qué función ejecutar.
-console.log("Resultado" + resultado);
+alert("Resultado" + resultado);
 
 // Le pregunta si desea continuar
 continuar = confirm("¿Desea continuar?");
-console.log(continuar);
 
 // Si ya no desea continuar, se termina el bucle y muestra la cantidad de
 // operaciones realizadas
