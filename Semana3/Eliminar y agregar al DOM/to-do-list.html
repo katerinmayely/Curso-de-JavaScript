@@ -94,14 +94,11 @@
     <div class="todo-container">
         <h2>Lista de Tareas</h2>
         <div class="todo-form">
-            <input type="text" placeholder="Agregar una tarea" disabled>
-            <button disabled>Agregar</button>
+            <input id="entrada-texto" type="text" placeholder="Agregar una tarea">
+            <button id="agregarBtn">Agregar</button>
         </div>
-        <ul class="todo-list">
-            <li class="todo-item">
-                <span>Tarea de ejemplo</span>
-                <button disabled>Eliminar</button>
-            </li>
+        <ul id="contenedor" class="todo-list">
+            <!-- Se muestra dinámicamente con JavaScript -->
         </ul>
     </div>
     <script src="index.js"></script>
