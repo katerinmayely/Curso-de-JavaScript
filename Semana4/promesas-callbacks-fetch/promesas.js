@@ -28,4 +28,3 @@ funcionPrueba()
 .then(() => {console.log("éxito")})
 .catch(() => {console.log("error")})
 .finally(() => {console.log("Se ejecutó")})
-
