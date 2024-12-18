@@ -1,2 +1,3 @@
-# Curso básico de JavaScript
-Visita la [playlist en youtube](https://www.youtube.com/playlist?list=PL5sBVAxporFupcdTxdg-WN_Q406My2Omb) para ver las grabaciones.
+### Repositorio del curso de JavaScript
+
+I Promoción III PAC UNAH - CEETI
